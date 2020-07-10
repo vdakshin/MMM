@@ -1,6 +1,6 @@
 # Simple MMM example
 
-This repository contains some basic scripts for marketing mix modeling. It is based on data generated using the Aggregate Marketing System Simulator (AMSS) and includes scripts in R. It contains 3 R scripts:
+This repository contains some basic scripts for marketing mix modeling (MMM). It is based on data generated using the Aggregate Marketing System Simulator (AMSS) and includes scripts in R. It contains 3 R scripts:
 
 1. vignette-coffee.R - script to simulate the data using AMSS
 2. linear-model.R - script with simple linear MMM model
